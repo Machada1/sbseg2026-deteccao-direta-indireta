@@ -1,0 +1,154 @@
+{
+  "SchemaVersion": 2,
+  "Trivy": {
+    "Version": "0.69.1"
+  },
+  "ReportID": "019c43a3-fd32-71c6-b786-0561b1cb8df1",
+  "CreatedAt": "2026-02-09T18:22:26.610119275Z",
+  "ArtifactName": "Instrumentos/Codigos/DevSecOps/dvwa/src",
+  "ArtifactType": "filesystem",
+  "Results": [
+    {
+      "Target": "vulnerabilities/api/composer.lock",
+      "Class": "lang-pkgs",
+      "Type": "composer",
+      "Packages": [
+        {
+          "ID": "zircote/swagger-php@4.11.1",
+          "Name": "zircote/swagger-php",
+          "Identifier": {
+            "PURL": "pkg:composer/zircote/swagger-php@4.11.1",
+            "UID": "8e4dea42adadda3b"
+          },
+          "Version": "4.11.1",
+          "Licenses": [
+            "Apache-2.0"
+          ],
+          "Relationship": "direct",
+          "DependsOn": [
+            "psr/log@3.0.2",
+            "symfony/deprecation-contracts@v3.5.1",
+            "symfony/finder@v7.2.2",
+            "symfony/yaml@v7.2.3"
+          ],
+          "Locations": [
+            {
+              "StartLine": 341,
+              "EndLine": 421
+            }
+          ],
+          "AnalyzedBy": "composer"
+        },
+        {
+          "ID": "psr/log@3.0.2",
+          "Name": "psr/log",
+          "Identifier": {
+            "PURL": "pkg:composer/psr/log@3.0.2",
+            "UID": "16646a3679e907b6"
+          },
+          "Version": "3.0.2",
+          "Licenses": [
+            "MIT"
+          ],
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 9,
+              "EndLine": 58
+            }
+          ],
+          "AnalyzedBy": "composer"
+        },
+        {
+          "ID": "symfony/deprecation-contracts@v3.5.1",
+          "Name": "symfony/deprecation-contracts",
+          "Identifier": {
+            "PURL": "pkg:composer/symfony/deprecation-contracts@v3.5.1",
+            "UID": "fb40bb7147262ce9"
+          },
+          "Version": "v3.5.1",
+          "Licenses": [
+            "MIT"
+          ],
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 59,
+              "EndLine": 125
+            }
+          ],
+          "AnalyzedBy": "composer"
+        },
+        {
+          "ID": "symfony/finder@v7.2.2",
+          "Name": "symfony/finder",
+          "Identifier": {
+            "PURL": "pkg:composer/symfony/finder@v7.2.2",
+            "UID": "48b4ad843bd03127"
+          },
+          "Version": "v7.2.2",
+          "Licenses": [
+            "MIT"
+          ],
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 126,
+              "EndLine": 189
+            }
+          ],
+          "AnalyzedBy": "composer"
+        },
+        {
+          "ID": "symfony/polyfill-ctype@v1.31.0",
+          "Name": "symfony/polyfill-ctype",
+          "Identifier": {
+            "PURL": "pkg:composer/symfony/polyfill-ctype@v1.31.0",
+            "UID": "341e1a7667bc8074"
+          },
+          "Version": "v1.31.0",
+          "Licenses": [
+            "MIT"
+          ],
+          "Indirect": true,
+          "Relationship": "indirect",
+          "Locations": [
+            {
+              "StartLine": 190,
+              "EndLine": 268
+            }
+          ],
+          "AnalyzedBy": "composer"
+        },
+        {
+          "ID": "symfony/yaml@v7.2.3",
+          "Name": "symfony/yaml",
+          "Identifier": {
+            "PURL": "pkg:composer/symfony/yaml@v7.2.3",
+            "UID": "7707181e904a874b"
+          },
+          "Version": "v7.2.3",
+          "Licenses": [
+            "MIT"
+          ],
+          "Indirect": true,
+          "Relationship": "indirect",
+          "DependsOn": [
+            "symfony/deprecation-contracts@v3.5.1",
+            "symfony/polyfill-ctype@v1.31.0"
+          ],
+          "Locations": [
+            {
+              "StartLine": 269,
+              "EndLine": 340
+            }
+          ],
+          "AnalyzedBy": "composer"
+        }
+      ]
+    }
+  ]
+}

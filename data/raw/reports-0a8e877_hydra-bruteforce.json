@@ -1,0 +1,1044 @@
+{
+  "tool": "DVWA Brute Force Scanner (Custom)",
+  "target": "http://34.172.122.255",
+  "timestamp": "2026-02-09T18:24:06.275140",
+  "total_attempts": 200,
+  "successful_logins": [
+    {
+      "username": "admin",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:06.988345"
+    },
+    {
+      "username": "admin",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:07.109082"
+    },
+    {
+      "username": "admin",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:07.480841"
+    },
+    {
+      "username": "admin",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:07.599119"
+    },
+    {
+      "username": "admin",
+      "password": "letmein",
+      "timestamp": "2026-02-09T18:24:08.082578"
+    },
+    {
+      "username": "admin",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:08.323353"
+    },
+    {
+      "username": "admin",
+      "password": "master",
+      "timestamp": "2026-02-09T18:24:08.576772"
+    },
+    {
+      "username": "admin",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:08.827365"
+    },
+    {
+      "username": "admin",
+      "password": "changeme",
+      "timestamp": "2026-02-09T18:24:08.956485"
+    },
+    {
+      "username": "root",
+      "password": "admin",
+      "timestamp": "2026-02-09T18:24:09.092596"
+    },
+    {
+      "username": "root",
+      "password": "root",
+      "timestamp": "2026-02-09T18:24:09.346112"
+    },
+    {
+      "username": "root",
+      "password": "test",
+      "timestamp": "2026-02-09T18:24:09.843784"
+    },
+    {
+      "username": "root",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:09.966414"
+    },
+    {
+      "username": "root",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:10.090362"
+    },
+    {
+      "username": "root",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:10.212702"
+    },
+    {
+      "username": "root",
+      "password": "admin123",
+      "timestamp": "2026-02-09T18:24:10.337853"
+    },
+    {
+      "username": "root",
+      "password": "letmein",
+      "timestamp": "2026-02-09T18:24:10.587577"
+    },
+    {
+      "username": "root",
+      "password": "dragon",
+      "timestamp": "2026-02-09T18:24:10.960543"
+    },
+    {
+      "username": "user",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:11.705204"
+    },
+    {
+      "username": "user",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:11.952722"
+    },
+    {
+      "username": "user",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:12.071022"
+    },
+    {
+      "username": "user",
+      "password": "1234",
+      "timestamp": "2026-02-09T18:24:12.189943"
+    },
+    {
+      "username": "user",
+      "password": "letmein",
+      "timestamp": "2026-02-09T18:24:13.055889"
+    },
+    {
+      "username": "user",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:13.297769"
+    },
+    {
+      "username": "user",
+      "password": "changeme",
+      "timestamp": "2026-02-09T18:24:13.913442"
+    },
+    {
+      "username": "test",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:14.160440"
+    },
+    {
+      "username": "test",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:14.404033"
+    },
+    {
+      "username": "test",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:14.527588"
+    },
+    {
+      "username": "test",
+      "password": "1234",
+      "timestamp": "2026-02-09T18:24:14.650488"
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "timestamp": "2026-02-09T18:24:14.775167"
+    },
+    {
+      "username": "test",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:14.894168"
+    },
+    {
+      "username": "test",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:15.142460"
+    },
+    {
+      "username": "test",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:15.747967"
+    },
+    {
+      "username": "test",
+      "password": "master",
+      "timestamp": "2026-02-09T18:24:15.990630"
+    },
+    {
+      "username": "test",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:16.233779"
+    },
+    {
+      "username": "test",
+      "password": "changeme",
+      "timestamp": "2026-02-09T18:24:16.355649"
+    },
+    {
+      "username": "guest",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:16.603353"
+    },
+    {
+      "username": "guest",
+      "password": "root",
+      "timestamp": "2026-02-09T18:24:16.725585"
+    },
+    {
+      "username": "guest",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:16.976511"
+    },
+    {
+      "username": "guest",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:17.359524"
+    },
+    {
+      "username": "guest",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:17.483490"
+    },
+    {
+      "username": "guest",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:17.605028"
+    },
+    {
+      "username": "guest",
+      "password": "letmein",
+      "timestamp": "2026-02-09T18:24:17.974055"
+    },
+    {
+      "username": "guest",
+      "password": "welcome",
+      "timestamp": "2026-02-09T18:24:18.102665"
+    },
+    {
+      "username": "guest",
+      "password": "dragon",
+      "timestamp": "2026-02-09T18:24:18.344401"
+    },
+    {
+      "username": "guest",
+      "password": "qwerty",
+      "timestamp": "2026-02-09T18:24:18.584889"
+    },
+    {
+      "username": "dvwa",
+      "password": "admin",
+      "timestamp": "2026-02-09T18:24:18.953377"
+    },
+    {
+      "username": "dvwa",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:19.077065"
+    },
+    {
+      "username": "dvwa",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:19.324101"
+    },
+    {
+      "username": "dvwa",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:19.447652"
+    },
+    {
+      "username": "dvwa",
+      "password": "test",
+      "timestamp": "2026-02-09T18:24:19.695989"
+    },
+    {
+      "username": "dvwa",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:19.821533"
+    },
+    {
+      "username": "dvwa",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:19.943164"
+    },
+    {
+      "username": "dvwa",
+      "password": "admin123",
+      "timestamp": "2026-02-09T18:24:20.185250"
+    },
+    {
+      "username": "dvwa",
+      "password": "master",
+      "timestamp": "2026-02-09T18:24:20.933394"
+    },
+    {
+      "username": "dvwa",
+      "password": "qwerty",
+      "timestamp": "2026-02-09T18:24:21.053531"
+    },
+    {
+      "username": "dvwa",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:21.170805"
+    },
+    {
+      "username": "dvwa",
+      "password": "changeme",
+      "timestamp": "2026-02-09T18:24:21.294876"
+    },
+    {
+      "username": "administrator",
+      "password": "admin",
+      "timestamp": "2026-02-09T18:24:21.417263"
+    },
+    {
+      "username": "administrator",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:21.784147"
+    },
+    {
+      "username": "administrator",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:21.906831"
+    },
+    {
+      "username": "administrator",
+      "password": "1234",
+      "timestamp": "2026-02-09T18:24:22.026349"
+    },
+    {
+      "username": "administrator",
+      "password": "test",
+      "timestamp": "2026-02-09T18:24:22.149363"
+    },
+    {
+      "username": "administrator",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:22.273556"
+    },
+    {
+      "username": "administrator",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:22.402875"
+    },
+    {
+      "username": "administrator",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:22.525355"
+    },
+    {
+      "username": "administrator",
+      "password": "admin123",
+      "timestamp": "2026-02-09T18:24:22.647165"
+    },
+    {
+      "username": "administrator",
+      "password": "letmein",
+      "timestamp": "2026-02-09T18:24:22.894843"
+    },
+    {
+      "username": "administrator",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:23.141415"
+    },
+    {
+      "username": "administrator",
+      "password": "dragon",
+      "timestamp": "2026-02-09T18:24:23.263789"
+    },
+    {
+      "username": "administrator",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:23.635183"
+    },
+    {
+      "username": "manager",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:24.001251"
+    },
+    {
+      "username": "manager",
+      "password": "root",
+      "timestamp": "2026-02-09T18:24:24.127816"
+    },
+    {
+      "username": "manager",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:24.248995"
+    },
+    {
+      "username": "manager",
+      "password": "123456",
+      "timestamp": "2026-02-09T18:24:24.371294"
+    },
+    {
+      "username": "manager",
+      "password": "1234",
+      "timestamp": "2026-02-09T18:24:24.493408"
+    },
+    {
+      "username": "manager",
+      "password": "test",
+      "timestamp": "2026-02-09T18:24:24.620648"
+    },
+    {
+      "username": "manager",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:24.742462"
+    },
+    {
+      "username": "manager",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:24.863156"
+    },
+    {
+      "username": "manager",
+      "password": "welcome",
+      "timestamp": "2026-02-09T18:24:25.478149"
+    },
+    {
+      "username": "manager",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:25.602878"
+    },
+    {
+      "username": "manager",
+      "password": "dragon",
+      "timestamp": "2026-02-09T18:24:25.725746"
+    },
+    {
+      "username": "manager",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:26.097159"
+    },
+    {
+      "username": "manager",
+      "password": "changeme",
+      "timestamp": "2026-02-09T18:24:26.217683"
+    },
+    {
+      "username": "webadmin",
+      "password": "admin",
+      "timestamp": "2026-02-09T18:24:26.341918"
+    },
+    {
+      "username": "webadmin",
+      "password": "password",
+      "timestamp": "2026-02-09T18:24:26.462346"
+    },
+    {
+      "username": "webadmin",
+      "password": "root",
+      "timestamp": "2026-02-09T18:24:26.586728"
+    },
+    {
+      "username": "webadmin",
+      "password": "dvwa",
+      "timestamp": "2026-02-09T18:24:26.706776"
+    },
+    {
+      "username": "webadmin",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:27.450249"
+    },
+    {
+      "username": "webadmin",
+      "password": "admin123",
+      "timestamp": "2026-02-09T18:24:27.573368"
+    },
+    {
+      "username": "webadmin",
+      "password": "password123",
+      "timestamp": "2026-02-09T18:24:27.696174"
+    },
+    {
+      "username": "webadmin",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:28.069956"
+    },
+    {
+      "username": "webadmin",
+      "password": "qwerty",
+      "timestamp": "2026-02-09T18:24:28.432703"
+    },
+    {
+      "username": "webadmin",
+      "password": "login",
+      "timestamp": "2026-02-09T18:24:28.552974"
+    },
+    {
+      "username": "sysadmin",
+      "password": "admin",
+      "timestamp": "2026-02-09T18:24:28.795461"
+    },
+    {
+      "username": "sysadmin",
+      "password": "root",
+      "timestamp": "2026-02-09T18:24:29.037146"
+    },
+    {
+      "username": "sysadmin",
+      "password": "1234",
+      "timestamp": "2026-02-09T18:24:29.402094"
+    },
+    {
+      "username": "sysadmin",
+      "password": "guest",
+      "timestamp": "2026-02-09T18:24:29.642435"
+    },
+    {
+      "username": "sysadmin",
+      "password": "user",
+      "timestamp": "2026-02-09T18:24:29.765504"
+    },
+    {
+      "username": "sysadmin",
+      "password": "passw0rd",
+      "timestamp": "2026-02-09T18:24:29.883564"
+    },
+    {
+      "username": "sysadmin",
+      "password": "monkey",
+      "timestamp": "2026-02-09T18:24:30.505486"
+    },
+    {
+      "username": "sysadmin",
+      "password": "master",
+      "timestamp": "2026-02-09T18:24:30.755064"
+    }
+  ],
+  "failed_attempts": 98,
+  "errors": 0,
+  "vulnerable": true,
+  "csrf_token_required": true,
+  "details": [
+    {
+      "type": "Weak Credentials",
+      "severity": "HIGH",
+      "cwe": "CWE-307",
+      "owasp": "A07:2021 - Identification and Authentication Failures",
+      "description": "Credenciais fracas encontradas: 102 combina\u00e7\u00e3o(\u00f5es) v\u00e1lida(s)",
+      "credentials_found": [
+        {
+          "username": "admin",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:06.988345"
+        },
+        {
+          "username": "admin",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:07.109082"
+        },
+        {
+          "username": "admin",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:07.480841"
+        },
+        {
+          "username": "admin",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:07.599119"
+        },
+        {
+          "username": "admin",
+          "password": "letmein",
+          "timestamp": "2026-02-09T18:24:08.082578"
+        },
+        {
+          "username": "admin",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:08.323353"
+        },
+        {
+          "username": "admin",
+          "password": "master",
+          "timestamp": "2026-02-09T18:24:08.576772"
+        },
+        {
+          "username": "admin",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:08.827365"
+        },
+        {
+          "username": "admin",
+          "password": "changeme",
+          "timestamp": "2026-02-09T18:24:08.956485"
+        },
+        {
+          "username": "root",
+          "password": "admin",
+          "timestamp": "2026-02-09T18:24:09.092596"
+        },
+        {
+          "username": "root",
+          "password": "root",
+          "timestamp": "2026-02-09T18:24:09.346112"
+        },
+        {
+          "username": "root",
+          "password": "test",
+          "timestamp": "2026-02-09T18:24:09.843784"
+        },
+        {
+          "username": "root",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:09.966414"
+        },
+        {
+          "username": "root",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:10.090362"
+        },
+        {
+          "username": "root",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:10.212702"
+        },
+        {
+          "username": "root",
+          "password": "admin123",
+          "timestamp": "2026-02-09T18:24:10.337853"
+        },
+        {
+          "username": "root",
+          "password": "letmein",
+          "timestamp": "2026-02-09T18:24:10.587577"
+        },
+        {
+          "username": "root",
+          "password": "dragon",
+          "timestamp": "2026-02-09T18:24:10.960543"
+        },
+        {
+          "username": "user",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:11.705204"
+        },
+        {
+          "username": "user",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:11.952722"
+        },
+        {
+          "username": "user",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:12.071022"
+        },
+        {
+          "username": "user",
+          "password": "1234",
+          "timestamp": "2026-02-09T18:24:12.189943"
+        },
+        {
+          "username": "user",
+          "password": "letmein",
+          "timestamp": "2026-02-09T18:24:13.055889"
+        },
+        {
+          "username": "user",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:13.297769"
+        },
+        {
+          "username": "user",
+          "password": "changeme",
+          "timestamp": "2026-02-09T18:24:13.913442"
+        },
+        {
+          "username": "test",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:14.160440"
+        },
+        {
+          "username": "test",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:14.404033"
+        },
+        {
+          "username": "test",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:14.527588"
+        },
+        {
+          "username": "test",
+          "password": "1234",
+          "timestamp": "2026-02-09T18:24:14.650488"
+        },
+        {
+          "username": "test",
+          "password": "test",
+          "timestamp": "2026-02-09T18:24:14.775167"
+        },
+        {
+          "username": "test",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:14.894168"
+        },
+        {
+          "username": "test",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:15.142460"
+        },
+        {
+          "username": "test",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:15.747967"
+        },
+        {
+          "username": "test",
+          "password": "master",
+          "timestamp": "2026-02-09T18:24:15.990630"
+        },
+        {
+          "username": "test",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:16.233779"
+        },
+        {
+          "username": "test",
+          "password": "changeme",
+          "timestamp": "2026-02-09T18:24:16.355649"
+        },
+        {
+          "username": "guest",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:16.603353"
+        },
+        {
+          "username": "guest",
+          "password": "root",
+          "timestamp": "2026-02-09T18:24:16.725585"
+        },
+        {
+          "username": "guest",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:16.976511"
+        },
+        {
+          "username": "guest",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:17.359524"
+        },
+        {
+          "username": "guest",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:17.483490"
+        },
+        {
+          "username": "guest",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:17.605028"
+        },
+        {
+          "username": "guest",
+          "password": "letmein",
+          "timestamp": "2026-02-09T18:24:17.974055"
+        },
+        {
+          "username": "guest",
+          "password": "welcome",
+          "timestamp": "2026-02-09T18:24:18.102665"
+        },
+        {
+          "username": "guest",
+          "password": "dragon",
+          "timestamp": "2026-02-09T18:24:18.344401"
+        },
+        {
+          "username": "guest",
+          "password": "qwerty",
+          "timestamp": "2026-02-09T18:24:18.584889"
+        },
+        {
+          "username": "dvwa",
+          "password": "admin",
+          "timestamp": "2026-02-09T18:24:18.953377"
+        },
+        {
+          "username": "dvwa",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:19.077065"
+        },
+        {
+          "username": "dvwa",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:19.324101"
+        },
+        {
+          "username": "dvwa",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:19.447652"
+        },
+        {
+          "username": "dvwa",
+          "password": "test",
+          "timestamp": "2026-02-09T18:24:19.695989"
+        },
+        {
+          "username": "dvwa",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:19.821533"
+        },
+        {
+          "username": "dvwa",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:19.943164"
+        },
+        {
+          "username": "dvwa",
+          "password": "admin123",
+          "timestamp": "2026-02-09T18:24:20.185250"
+        },
+        {
+          "username": "dvwa",
+          "password": "master",
+          "timestamp": "2026-02-09T18:24:20.933394"
+        },
+        {
+          "username": "dvwa",
+          "password": "qwerty",
+          "timestamp": "2026-02-09T18:24:21.053531"
+        },
+        {
+          "username": "dvwa",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:21.170805"
+        },
+        {
+          "username": "dvwa",
+          "password": "changeme",
+          "timestamp": "2026-02-09T18:24:21.294876"
+        },
+        {
+          "username": "administrator",
+          "password": "admin",
+          "timestamp": "2026-02-09T18:24:21.417263"
+        },
+        {
+          "username": "administrator",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:21.784147"
+        },
+        {
+          "username": "administrator",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:21.906831"
+        },
+        {
+          "username": "administrator",
+          "password": "1234",
+          "timestamp": "2026-02-09T18:24:22.026349"
+        },
+        {
+          "username": "administrator",
+          "password": "test",
+          "timestamp": "2026-02-09T18:24:22.149363"
+        },
+        {
+          "username": "administrator",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:22.273556"
+        },
+        {
+          "username": "administrator",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:22.402875"
+        },
+        {
+          "username": "administrator",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:22.525355"
+        },
+        {
+          "username": "administrator",
+          "password": "admin123",
+          "timestamp": "2026-02-09T18:24:22.647165"
+        },
+        {
+          "username": "administrator",
+          "password": "letmein",
+          "timestamp": "2026-02-09T18:24:22.894843"
+        },
+        {
+          "username": "administrator",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:23.141415"
+        },
+        {
+          "username": "administrator",
+          "password": "dragon",
+          "timestamp": "2026-02-09T18:24:23.263789"
+        },
+        {
+          "username": "administrator",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:23.635183"
+        },
+        {
+          "username": "manager",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:24.001251"
+        },
+        {
+          "username": "manager",
+          "password": "root",
+          "timestamp": "2026-02-09T18:24:24.127816"
+        },
+        {
+          "username": "manager",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:24.248995"
+        },
+        {
+          "username": "manager",
+          "password": "123456",
+          "timestamp": "2026-02-09T18:24:24.371294"
+        },
+        {
+          "username": "manager",
+          "password": "1234",
+          "timestamp": "2026-02-09T18:24:24.493408"
+        },
+        {
+          "username": "manager",
+          "password": "test",
+          "timestamp": "2026-02-09T18:24:24.620648"
+        },
+        {
+          "username": "manager",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:24.742462"
+        },
+        {
+          "username": "manager",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:24.863156"
+        },
+        {
+          "username": "manager",
+          "password": "welcome",
+          "timestamp": "2026-02-09T18:24:25.478149"
+        },
+        {
+          "username": "manager",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:25.602878"
+        },
+        {
+          "username": "manager",
+          "password": "dragon",
+          "timestamp": "2026-02-09T18:24:25.725746"
+        },
+        {
+          "username": "manager",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:26.097159"
+        },
+        {
+          "username": "manager",
+          "password": "changeme",
+          "timestamp": "2026-02-09T18:24:26.217683"
+        },
+        {
+          "username": "webadmin",
+          "password": "admin",
+          "timestamp": "2026-02-09T18:24:26.341918"
+        },
+        {
+          "username": "webadmin",
+          "password": "password",
+          "timestamp": "2026-02-09T18:24:26.462346"
+        },
+        {
+          "username": "webadmin",
+          "password": "root",
+          "timestamp": "2026-02-09T18:24:26.586728"
+        },
+        {
+          "username": "webadmin",
+          "password": "dvwa",
+          "timestamp": "2026-02-09T18:24:26.706776"
+        },
+        {
+          "username": "webadmin",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:27.450249"
+        },
+        {
+          "username": "webadmin",
+          "password": "admin123",
+          "timestamp": "2026-02-09T18:24:27.573368"
+        },
+        {
+          "username": "webadmin",
+          "password": "password123",
+          "timestamp": "2026-02-09T18:24:27.696174"
+        },
+        {
+          "username": "webadmin",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:28.069956"
+        },
+        {
+          "username": "webadmin",
+          "password": "qwerty",
+          "timestamp": "2026-02-09T18:24:28.432703"
+        },
+        {
+          "username": "webadmin",
+          "password": "login",
+          "timestamp": "2026-02-09T18:24:28.552974"
+        },
+        {
+          "username": "sysadmin",
+          "password": "admin",
+          "timestamp": "2026-02-09T18:24:28.795461"
+        },
+        {
+          "username": "sysadmin",
+          "password": "root",
+          "timestamp": "2026-02-09T18:24:29.037146"
+        },
+        {
+          "username": "sysadmin",
+          "password": "1234",
+          "timestamp": "2026-02-09T18:24:29.402094"
+        },
+        {
+          "username": "sysadmin",
+          "password": "guest",
+          "timestamp": "2026-02-09T18:24:29.642435"
+        },
+        {
+          "username": "sysadmin",
+          "password": "user",
+          "timestamp": "2026-02-09T18:24:29.765504"
+        },
+        {
+          "username": "sysadmin",
+          "password": "passw0rd",
+          "timestamp": "2026-02-09T18:24:29.883564"
+        },
+        {
+          "username": "sysadmin",
+          "password": "monkey",
+          "timestamp": "2026-02-09T18:24:30.505486"
+        },
+        {
+          "username": "sysadmin",
+          "password": "master",
+          "timestamp": "2026-02-09T18:24:30.755064"
+        }
+      ],
+      "recommendation": "Implementar pol\u00edtica de senhas fortes, limite de tentativas e bloqueio de conta"
+    }
+  ]
+}

@@ -100,8 +100,8 @@ Os relatórios em `data/raw/` contêm identificadores públicos de vulnerabilida
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/Machada1/[NOME-DO-REPO].git
-cd [NOME-DO-REPO]
+git clone https://github.com/Machada1/sbseg2026-deteccao-direta-indireta.git
+cd sbseg2026-deteccao-direta-indireta
 
 # 2. Verificar a versão do Python (>= 3.9)
 python3 --version
@@ -198,5 +198,3 @@ Adicionalmente, a distribuição por estágio impressa no terminal: P1 concentra
 # LICENSE
 
 Este artefato é distribuído sob a licença **MIT** (ver arquivo `LICENSE`).
-
-> **[AJUSTAR]** Confirmar a licença desejada com os coautores. MIT é a escolha mais simples e amigável à avaliação; se os dados ou algum componente exigirem outra licença, declarar aqui.

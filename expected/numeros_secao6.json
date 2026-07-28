@@ -1,0 +1,230 @@
+{
+  "bruto": {
+    "trivy_container_individual": 1575,
+    "semgrep": 77,
+    "trivy_sca": 0,
+    "checkov": 63,
+    "zap_baseline": 19,
+    "zap_active": 14,
+    "brute_force": 2,
+    "total_bruto": 1750
+  },
+  "simulacao": {
+    "trivy_container_individual_app_match": 48,
+    "trivy_container_agregados": 3,
+    "total_p_simulacao": 226
+  },
+  "trivy_cvss": {
+    "media": 6.982149712092131,
+    "bandas": {
+      "9.0-10.0 Critical": 272,
+      "7.0-8.9 High": 566,
+      "4.0-6.9 Medium": 683,
+      "0.1-3.9 Low": 42
+    },
+    "sem_score": 12
+  },
+  "trivy_top_cwes": [
+    [
+      "CWE-125",
+      343
+    ],
+    [
+      "CWE-787",
+      148
+    ],
+    [
+      "CWE-190",
+      114
+    ],
+    [
+      "CWE-476",
+      92
+    ],
+    [
+      "CWE-20",
+      65
+    ],
+    [
+      "CWE-416",
+      63
+    ],
+    [
+      "CWE-908",
+      41
+    ],
+    [
+      "CWE-119",
+      37
+    ],
+    [
+      "CWE-120",
+      32
+    ],
+    [
+      "CWE-400",
+      29
+    ]
+  ],
+  "cobertura": {
+    "rows": [
+      {
+        "name": "SQL Injection",
+        "cwe": "CWE-89",
+        "layer": "APP",
+        "n_direta": 15,
+        "n_indireta": 8,
+        "status": "direta"
+      },
+      {
+        "name": "Cross-Site Scripting (XSS)",
+        "cwe": "CWE-79",
+        "layer": "APP",
+        "n_direta": 7,
+        "n_indireta": 15,
+        "status": "direta"
+      },
+      {
+        "name": "Command Injection",
+        "cwe": "CWE-78",
+        "layer": "APP",
+        "n_direta": 11,
+        "n_indireta": 2,
+        "status": "direta"
+      },
+      {
+        "name": "CSRF",
+        "cwe": "CWE-352",
+        "layer": "APP",
+        "n_direta": 0,
+        "n_indireta": 1,
+        "status": "apenas indireta"
+      },
+      {
+        "name": "Weak Session IDs",
+        "cwe": "CWE-330",
+        "layer": "APP",
+        "n_direta": 0,
+        "n_indireta": 2,
+        "status": "apenas indireta"
+      },
+      {
+        "name": "Brute Force",
+        "cwe": "CWE-307",
+        "layer": "APP",
+        "n_direta": 1,
+        "n_indireta": 0,
+        "status": "direta"
+      },
+      {
+        "name": "Open HTTP Redirect",
+        "cwe": "CWE-601",
+        "layer": "APP",
+        "n_direta": 0,
+        "n_indireta": 8,
+        "status": "apenas indireta"
+      },
+      {
+        "name": "JavaScript Attacks",
+        "cwe": "CWE-749",
+        "layer": "APP",
+        "n_direta": 4,
+        "n_indireta": 0,
+        "status": "direta"
+      },
+      {
+        "name": "Content Security Policy Bypass",
+        "cwe": "CWE-693",
+        "layer": "APP",
+        "n_direta": 6,
+        "n_indireta": 0,
+        "status": "direta"
+      },
+      {
+        "name": "Default Credentials",
+        "cwe": "CWE-798",
+        "layer": "APP",
+        "n_direta": 1,
+        "n_indireta": 0,
+        "status": "direta"
+      },
+      {
+        "name": "Exposed MySQL",
+        "cwe": "CWE-284",
+        "layer": "APP",
+        "n_direta": 11,
+        "n_indireta": 12,
+        "status": "direta"
+      },
+      {
+        "name": "Outdated OS",
+        "cwe": "CWE-1104",
+        "layer": "INFRA",
+        "n_direta": 1,
+        "n_indireta": 0,
+        "status": "direta"
+      },
+      {
+        "name": "Outdated Packages",
+        "cwe": "CWE-1104",
+        "layer": "INFRA",
+        "n_direta": 1,
+        "n_indireta": 0,
+        "status": "direta"
+      }
+    ],
+    "dir": 10,
+    "ind": 3,
+    "nao": 0
+  },
+  "volume_classe": {
+    "n_a": 120,
+    "direta": 58,
+    "indireta": 48
+  },
+  "politicas": {
+    "P1": {
+      "total": 226,
+      "blocks": 5,
+      "dir": 2,
+      "ind": 2,
+      "na": 1
+    },
+    "P2": {
+      "total": 226,
+      "blocks": 80,
+      "dir": 29,
+      "ind": 24,
+      "na": 27
+    },
+    "P3": {
+      "total": 226,
+      "blocks": 56,
+      "dir": 29,
+      "ind": 0,
+      "na": 27
+    }
+  },
+  "politicas_por_estagio": {
+    "P1": {
+      "commit": 0,
+      "build": 5,
+      "deploy": 0
+    },
+    "P2": {
+      "commit": 51,
+      "build": 27,
+      "deploy": 2
+    },
+    "P3": {
+      "commit": 51,
+      "build": 3,
+      "deploy": 2
+    }
+  },
+  "cobertura_bloqueante": {
+    "P1": 3,
+    "P2": 11,
+    "P3": 8
+  }
+}
